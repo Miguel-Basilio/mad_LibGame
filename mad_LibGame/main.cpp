@@ -33,7 +33,7 @@ int main(int argc, const char * argv[]) {
     cout <<" Enter a different plural noun: "<< endl;
     cin >> finalNoun;
     
-    
+  //
     cout << ""<< endl;
     //outputs History
     cout << "Fall, also know as "<< nounOne << ", is one of the\
